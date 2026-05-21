@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/global-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Global Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/global-heart/) |
+| **Get License** | [Secure Licensing Rights for Global Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/global-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 97b374d9df105cf287670c572782d0b16f91cefe
+> Kaale asmaan ch chamke tu shining star
+> Tainu labhda haan main from afar
+> Nasha tera crazy vibe naina vich bolda
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
